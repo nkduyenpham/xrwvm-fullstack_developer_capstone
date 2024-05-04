@@ -124,3 +124,17 @@ img{
     text-align:center;
     box-shadow: 2px 2px 3px #999;  
 }
+
+.image-container {
+    display: flex;
+    justify-content: center;
+}
+
+.info-container {
+    display: flex;
+    justify-content: center;
+}
+
+.info-container ul {
+    list-style-type: none;
+}
